@@ -8,7 +8,7 @@
 
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
-- javascript voor dev
+- dev
 
 > **Activiteiten:**  
 
@@ -17,7 +17,7 @@
 ---
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
-niks nieuw
+- JavaScript voor dev
 
 ## 3) Wat is mijn gevoel over vandaag?
 
