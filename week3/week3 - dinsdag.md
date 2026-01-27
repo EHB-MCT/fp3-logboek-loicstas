@@ -23,7 +23,7 @@
 
 - Voor vandaag ben ik klaar. Ik heb alle bulletpoints afgerond die ik moest doen voordat de website verder kon worden ontwikkeld, zodat we het morgen kunnen afmaken.
 
-- Als Scrum Master heb ik ervoor gezorgd dat iedereen wist wat hij of zij nu moest doen.
+- Als Scrum Master heb ik ervoor gezorgd dat iedereen wist wat ze nu moest doen.
 
 > **Algmeeen gevoel:**  
 > - 😃
