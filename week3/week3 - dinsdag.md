@@ -19,6 +19,8 @@
 
 - JavaScript voor dev
 
+- Ik heb op YouTube video’s bekeken en documentatie opgezocht over bepaalde aspecten van JavaScript.
+
 ## 3) Wat is mijn gevoel over vandaag?
 
 - Voor vandaag ben ik klaar. Ik heb alle bulletpoints afgerond die ik moest doen voordat de website verder kon worden ontwikkeld, zodat we het morgen kunnen afmaken.
