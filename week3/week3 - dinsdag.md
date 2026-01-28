@@ -19,7 +19,7 @@
 
 - JavaScript voor dev
 
-- Ik heb op YouTube video’s bekeken en documentatie opgezocht over bepaalde aspecten van JavaScript.
+- Ik heb op YouTube video’s bekeken en documentatie opgezocht over bepaalde aspecten van JavaScript, zodat ik precies wist wat alles deed, bijvoorbeeld bij het leggen van connecties om een product naar een andere pagina te laten verwijzen.
 
 ## 3) Wat is mijn gevoel over vandaag?
 
